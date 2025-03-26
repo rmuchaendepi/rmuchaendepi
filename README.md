@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rmuchaendepi
+- 👋 Hi, I’m rmuchaendepi
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on artificial intelligence 
